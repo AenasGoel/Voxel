@@ -1,0 +1,6 @@
+Choose a graphics library (vulcan?)
+
+model the world
+
+create a noise function
+
